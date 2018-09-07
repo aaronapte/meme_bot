@@ -1,0 +1,11 @@
+{
+	"name": "MemeBot",
+	"dependencies": {
+		"discord.io": "^2.5.3",
+		"discord.js": "^11.3.0",
+		"dotenv": "^6.0.0",
+	},
+	"scripts": {
+		"start": "node bot.js"
+	}
+}
