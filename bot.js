@@ -1,5 +1,3 @@
-//var Genius = require("genius-api")
-//var genius = new Genius('D-OaT6Ar1UeDzDsVaKDRZdNBaQM7VUHi4aODjMT_wLoFRRRoYIV-eTEZWn9nA4i6')
 var Discord = require ("discord.js");
 var bot = new Discord.Client();
 var dotenv = require('dotenv');
